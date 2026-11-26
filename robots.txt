@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iskconpranami.github.io/ISHU-CONSULATACY/sitemap.xml
